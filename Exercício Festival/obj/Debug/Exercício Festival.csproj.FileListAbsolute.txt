@@ -1,0 +1,31 @@
+c:\users\a032143\documents\visual studio 2015\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe.config
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe.config
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.pdb
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csprojResolveAssemblyReference.cache
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Form1.resources
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Properties.Resources.resources
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.GenerateResource.Cache
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.exe
+C:\Users\Kaijin\Documents\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.pdb
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe.config
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.pdb
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csprojResolveAssemblyReference.cache
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Form1.resources
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Properties.Resources.resources
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.GenerateResource.Cache
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.CoreCompileInputs.cache
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.exe
+D:\MEGA\Rubbish\2017-11-08\Mega\Mega Nuno\IPMAIA\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.pdb
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe.config
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.exe
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\bin\Debug\Exercício Festival.pdb
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.AssemblyReference.cache
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Form1.resources
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício_Festival.Properties.Resources.resources
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.GenerateResource.cache
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.csproj.CoreCompileInputs.cache
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.exe
+C:\Users\hugo-\Documents\ISMAI\Programação Orientada a Objetos - POO\Visual Studio 2017\Projects\Exercício Festival\Exercício Festival\obj\Debug\Exercício Festival.pdb
